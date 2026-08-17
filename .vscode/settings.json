@@ -23,5 +23,16 @@
   },
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.next": true,
+    "**/node_modules": true,
+    "next-env.d.ts": true,
+    "components.json": true,
+    "bun.lock": true,
+    "package-lock.json": true,
+    "**/lib": true,
   }
 }
