@@ -33,6 +33,6 @@
     "components.json": true,
     "bun.lock": true,
     "package-lock.json": true,
-    "**/lib": true,
+    "**/lib": true
   }
 }
